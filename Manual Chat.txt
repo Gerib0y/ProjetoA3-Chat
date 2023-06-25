@@ -1,0 +1,11 @@
+Manual chat:
+ 
+1- Abrir 3 TERMINAIS; 1 para abrir o servidor e 2 para abrir os "clientes"
+2- Entrar no diretório do arquivo (usando cd ..(para voltar uma pasta) e cd "nome da pasta")
+3- NO TERMINAL DO SERVIDOR digitar javac Servidor.java 
+4- NO TERMINAL DO SERVIDOR digitar java Servidor (Isso irá aparecer qual porta esta rodando o servidor)
+5- NOS TERMINAIS DOS CLIENTES digitar javac Cliente.java
+6- NOS TERMINAIS DOS CLIENTES digitar java Cliente
+7- Cada usuário deverá digitar seu id (Nome, apelido, número)
+8- Cada usuário deverá digitar o id de destino (Exatamente como foi escrito no id do outro cliente)
+9- Agora é so mandar mensagem e quando quiser encerrar/sair é só digitar "encerrar"
